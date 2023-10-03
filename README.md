@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-     IPQ60xx||IPQ807x||MT798x 设备的 OpenWrt 固件发布页面
+     IPQ60xx & MT798x 设备的 OpenWrt 固件发布页面
   </h1>
 <a href="/LICENSE">
     <img src="https://img.shields.io/github/license/sdf8057/cloudbuild?style=flat&a=1" alt="">
@@ -18,6 +18,7 @@
 <br>
 
 ## ipq6000固件特性：  
+0.默认后台地址192.168.100.1；默认后台密码password。  
 1.添加cpu温度、频率以及npu占用率显示。  
 2.修复nat环回功能失效bug。  
 3.cpu超频至1.6ghz，跑分2w+。  
